@@ -1,0 +1,19 @@
+{
+  "name": "parse-hoster",
+  "version": "1.0.0",
+  "description": "Magic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustMeDaFaq/parse-hoster.git"
+  },
+  "author": "JustMeDaFaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustMeDaFaq/parse-hoster/issues"
+  },
+  "homepage": "https://github.com/JustMeDaFaq/parse-hoster#readme"
+}
