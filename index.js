@@ -1,4 +1,4 @@
-module.exports = openload;
+module.exports.openload = openload;
 
 function openload (link) {
   return new Promise(
