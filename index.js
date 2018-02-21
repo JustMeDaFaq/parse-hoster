@@ -8,8 +8,6 @@ module.exports.flashx = flashx;
 
 const puppeteer = require('puppeteer');
 var atob = require('atob');
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-var xhr = new XMLHttpRequest();
 
 
 
